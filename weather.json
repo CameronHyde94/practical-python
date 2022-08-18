@@ -1,0 +1,43 @@
+{
+    "coord":{
+       "lon":-111.8911,
+       "lat":40.7608
+    },
+    "weather":[
+       {
+          "id":800,
+          "main":"Clear",
+          "description":"clear sky",
+          "icon":"01d"
+       }
+    ],
+    "base":"stations",
+    "main":{
+       "temp":77.31,
+       "feels_like":76.89,
+       "temp_min":72.99,
+       "temp_max":81.84,
+       "pressure":1020,
+       "humidity":46
+    },
+    "visibility":10000,
+    "wind":{
+       "speed":4.61,
+       "deg":160
+    },
+    "clouds":{
+       "all":0
+    },
+    "dt":1660661921,
+    "sys":{
+       "type":2,
+       "id":2004156,
+       "country":"US",
+       "sunrise":1660653539,
+       "sunset":1660703096
+    },
+    "timezone":-21600,
+    "id":5780993,
+    "name":"Salt Lake City",
+    "cod":200
+ }
